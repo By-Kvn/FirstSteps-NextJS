@@ -15,7 +15,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>
-        <h1 className='font-bold text-4xl '>Hello World ! <a className='underline decoration-sky-500 text-zinc-50'>I am Kevin</a> and this is my first steps with <a className='underline decoration-purple-500 text-zinc-50'>NextJS</a> and <span className='underline decoration-pink-500 text-zinc-50'>TailwindCSS</span></h1>
+        <h1 className='font-bold text-6xl mt-40 text-center '>Hello World ! <a className='underline decoration-sky-500 text-zinc-50'>I am Kevin</a> and this is my first steps with <a className='underline decoration-purple-500 text-zinc-50'>NextJS</a> and <span className='underline decoration-pink-500 text-zinc-50'>TailwindCSS</span></h1>
       </main>
     </>
   )
